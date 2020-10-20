@@ -1,9 +1,5 @@
 # Graph GUI
 
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/baguilar1998)
-[![Author](https://img.shields.io/badge/author-baguilar1998-brightgreen?style=flat-square)](#)
-[![Languages](https://img.shields.io/badge/languages-1-brightgreen?style=flat-square)](#)
-
 > A visualization of the Graph's Data structure and some graph algorithms using Java Swing.
 
 ## Contents
